@@ -12,9 +12,9 @@ Me interesa convertir lo aprendido en aplicaciones útiles, trabajar en equipo y
 | Proyecto | Qué puedes encontrar | Tecnologías del proyecto |
 | --- | --- | --- |
 | **[YTFake](https://github.com/MrAGC/Proyecto4_YTFake)** | Aplicación web experimental de recomendación de vídeos: preparación de datos, entrenamiento de ranking y evaluación con datos simulados. | Python · FastAPI · pandas · XGBoost |
-| **[AiColonDiagnosis](https://github.com/Jachias21/AiColonDiagnosis)** · en equipo | Proyecto académico de IA sobre datos tabulares e imágenes médicas, con detección, segmentación y clasificación. Prototipo sin atribuirle validación clínica. | Python · PySide6 · Streamlit · visión por computador |
+| **[AiColonDiagnosis](https://github.com/Jachias21/AiColonDiagnosis)** · en equipo | Proyecto académico de IA sobre datos tabulares e imágenes médicas, con detección, segmentación y clasificación. Prototipo académico de investigación. | Python · PySide6 · Streamlit · visión por computador |
 
-Estos proyectos muestran trabajo académico y aprendizaje aplicado; no los presento como sistemas de producción.
+La selección reúne aplicaciones y experimentos realizados durante mi formación.
 
 ## Base técnica
 
