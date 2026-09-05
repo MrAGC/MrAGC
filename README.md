@@ -3,7 +3,7 @@
 
 Arenys de Mar, Barcelona · Abierto a oportunidades junior de **software, desarrollo web e IA/datos**.
 
-Soy titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y he completado formación de máster en **Inteligencia Artificial y Big Data en STUCOM**. Durante mis prácticas en Gemicar trabajé con **C# y SQL** en una aplicación de gestión de talleres.
+Soy titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y he completado formación de máster en **Inteligencia Artificial y Big Data en STUCOM**. Durante mis prácticas en Gemicar trabajé con **bases de datos y SQL** en una aplicación de gestión de talleres.
 
 Me interesa convertir lo aprendido en aplicaciones útiles, trabajar en equipo y seguir consolidando mis conocimientos. Utilizo herramientas de IA como apoyo al desarrollo y al aprendizaje.
 
@@ -18,8 +18,8 @@ La selección reúne aplicaciones y experimentos realizados durante mi formació
 
 ## Base técnica
 
-- **Experiencia de prácticas:** C# y SQL / T-SQL; gestión de datos y consultas.
-- **Formación y proyectos:** Python, Java y Kotlin; fundamentos de machine learning y visión por computador.
+- **Experiencia de prácticas:** bases de datos y SQL / T-SQL; gestión de datos y consultas.
+- **Formación y proyectos:** C# en DAM; Python, Java y Kotlin; fundamentos de machine learning y visión por computador.
 - **Tecnologías web que he utilizado:** React, Node.js, Astro, JavaScript, HTML, CSS y Tailwind CSS.
 - **Forma de trabajar:** Git / GitHub, colaboración y aprendizaje continuo.
 
@@ -37,4 +37,4 @@ Busco un puesto **junior**, a jornada completa o parcial, entre **Barcelona y Bl
 
 ---
 
-**English:** Junior software developer with a DAM vocational qualification and AI & Big Data studies at STUCOM. Internship experience with C# and SQL, plus academic Python and web projects. Open to junior software, web and AI/data roles around Barcelona or remotely. Intermediate English.
+**English:** Junior software developer with a DAM vocational qualification and AI & Big Data studies at STUCOM. Database and SQL internship experience, plus C# projects during DAM and academic Python and web projects. Open to junior software, web and AI/data roles around Barcelona or remotely. Intermediate English.
