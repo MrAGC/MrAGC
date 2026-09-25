@@ -1,7 +1,7 @@
 # Àlex García Clariana
 ### Desarrollador de software junior · IA y Big Data
 
-Arenys de Mar, Barcelona · Abierto a oportunidades junior de **software, desarrollo web e IA/datos**.
+Barcelona · Abierto a oportunidades junior de **software, desarrollo web e IA/datos**.
 
 Soy titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y he completado formación de máster en **Inteligencia Artificial y Big Data en STUCOM**. Durante mis prácticas en Gemicar trabajé con **bases de datos y SQL** en una aplicación de gestión de talleres.
 
